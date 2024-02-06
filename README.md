@@ -26,6 +26,7 @@ I am an enthusiastic and results-driven Full Stack Developer with expertise in N
   <img align="left" alt="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
 
   <br/>
+  <br/>
 
 #
 
